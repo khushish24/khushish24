@@ -1,16 +1,23 @@
-### Hi there 👋
+[![MasterHead]((https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-18.png)
+)
+<h1 align="center">Hello there, I'm Khushi Sharma!</h1>
+<h3 align="center">I'm a learner|Programmer. I love to network, join new communities and add value.</h3>
+<img align="right" alt="https://wallpapercave.com/wp/wp10475000.png">
 
-<!--
-**khushish24/khushish24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushish24&label=Profile%20views&color=0e75b6&style=flat" alt="khushish24" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **DSA with Java.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python.**
+
+- 📫 How to reach me **khsh2410@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khushi-sharma-70292720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-sharma-70292720b" height="30" width="40" /></a>
+<a href="https://medium.com/@khsh2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khsh2410" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khsh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khsh24" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
