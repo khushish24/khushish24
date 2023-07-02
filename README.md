@@ -1,8 +1,8 @@
-[![MasterHead]((https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-18.png)
+[![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-18.png)
 )
 <h1 align="center">Hello there, I'm Khushi Sharma!</h1>
 <h3 align="center">I'm a learner|Programmer. I love to network, join new communities and add value.</h3>
-<img align="right" alt="https://wallpapercave.com/wp/wp10475000.png">
+<img align="right" alt="Coding" width="500" src="https://wallpapercave.com/wp/wp10475000.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushish24&label=Profile%20views&color=0e75b6&style=flat" alt="khushish24" /> </p>
 
